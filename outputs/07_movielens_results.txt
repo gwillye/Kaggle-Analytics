@@ -1,0 +1,4 @@
+MovieLens 100k — item-item CF (top-30 neighbors)
+RMSE CF       = 0.918
+RMSE baseline = 1.021
+improvement   = 10.1%

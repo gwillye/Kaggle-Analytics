@@ -1,0 +1,5 @@
+Brazil socioeconomic indicators (World Bank)
+
+GDP per capita (US$): 235.3 (1960) -> 10310.5 (2024), CAGR 6.1%
+Life expectancy (yrs): 53.2 (1960) -> 76.0 (2024), CAGR 0.6%
+Internet users (%): 0.0 (1990) -> 84.5 (2024), CAGR nan%
